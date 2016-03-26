@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Moody Towers",
+        "What it was supposed to look like": "<img src=\"http://digital.lib.uh.edu/contentdm/image/standard/p15195coll3/253/500/401/8.7719298245614/0/0/0/0\" alt=\"\" />"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34156560897826,
+          29.717352170699705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Josh Been and Mapping": "<iframe src='https://youtu.be/XQa4lcOK3BA' width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34205913543701,
+          29.72065061586842
+        ]
+      }
+    }
+  ]
+}
